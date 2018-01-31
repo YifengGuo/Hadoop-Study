@@ -1,0 +1,52 @@
+# initialize env
+$ source /etc/profile
+
+# configure ssh
+$ ssh-keygen
+$ cp .ssh/id_rsa.pub .shh/authorized_keys
+
+# connect with localhost
+$ ssh localhost
+
+# calculate pi
+$ hadoop jar <example jar path> pi 4 100
+
+
+# format namenode
+$ hadoop namenode -format
+
+
+# start up hadoop
+$ start-all.sh
+
+# make directory in hdfs
+$ hadoop dfs -mkdir /user
+$ hadoop dfs -mkdir /user/hadoop
+
+# list files
+$ hadoop dfs -ls /user
+
+# copy from local
+$ hadoop dfs -copyFromLocal <local file path> <dir in HDFS>
+
+# examine the file in HDFS
+$ hadoop dfs -cat <filename>
+
+# copy file from HDFS to local
+$ hadoop dfs -copyToLocal <filename> <path in local>
+
+
+# word count job
+$ hadoop jar <example jar path> wordcount <file path in HDFS> <output path in HDFS>
+# output path in HDFS should be initialized for each job. Hadoop do not recommend writing
+# output of job to existed file. Or it will raise exception
+$ hadoop fs -ls <output path in HDFS>
+$ hadoop fs -cat <output path/part-r-xxxx> # to examine the output of task
+
+# sudoku solver
+# initial puzzle.txt in local
+$ hadoop jar <example jar path> sudoku <path of puzzle.txt>
+
+# to kill the job
+$ hadoop job -list
+$ hadoop job -kill <jobID>
