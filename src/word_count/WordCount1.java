@@ -14,7 +14,7 @@ import java.io.IOException;
 
 public class WordCount1 {
     public static class WordCountMapper extends Mapper<Object, Text, Text, IntWritable> {
-        private final static IntWritable one = new IntWritable();
+        private final static IntWritable one = new IntWritable(1);
         private Text word = new Text();
 
         public void map(Object key, Text value, Context context) throws IOException, InterruptedException {
