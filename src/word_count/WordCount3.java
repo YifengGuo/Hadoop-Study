@@ -11,8 +11,10 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 import java.io.IOException;
+
+
 @SuppressWarnings("Duplicates")
-public class WordCount2 {
+public class WordCount3 {
     public static class WordCountMapper extends Mapper<Object, Text, Text, IntWritable> {
         // IntWritable object one is initialized as static variable so we can reuse it to set the word in mapper
         private final static IntWritable one = new IntWritable(1);
@@ -50,8 +52,9 @@ public class WordCount2 {
          */
         public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
             int total = 0;
+            // amend the bug of (is, 2) by input offered by combiner, val.get() will get the actual count of each word
             for (IntWritable val : values) {
-                total++;
+                total += val.get();
             }
             context.write(key, new IntWritable(total));
         }
@@ -65,13 +68,9 @@ public class WordCount2 {
         job.setReducerClass(WordCountReducer.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
-        // only invoke combiner here as same as reducer may cause problem
-        // early the input of reducer offered by mapper is (is, 1, 1 ...), so total++ from 0
-        // but the input offered by combiner is (is, 2) and total will only increase once, so the count of 'is' is wrong
         job.setCombinerClass(WordCountReducer.class); // set combiner
         FileInputFormat.addInputPath(job, new Path(args[0]));
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 }
-

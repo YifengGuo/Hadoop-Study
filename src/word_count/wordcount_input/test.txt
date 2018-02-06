@@ -1,2 +1,2 @@
-This is a test.
-Yes, this is.
+This is a test
+Yes this is
