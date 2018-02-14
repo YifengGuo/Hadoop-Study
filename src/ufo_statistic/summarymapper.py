@@ -1,21 +1,21 @@
-import csv
+#!/usr/bin/python
+import sys
 
-with open("ufo.tsv") as tsvfile:
-    tsvreader = csv.reader(tsvfile, delimiter="\t")
-    for line in tsvreader:
-        print("total\t")
-        if len(line) != 6:
-            print ("badline\t")
-            continue
-        if len(line[0]) != 0:
-            print ("sighted\t")
-        if len(line[1]) != 0:
-            print ("recorded\t")
-        if len(line[2]) != 0:
-            print ("location\t")
-        if len(line[3]) != 0:
-            print ("shape\t")
-        if len(line[4]) != 0:
-            print ("duration\t")
-        if len(line[5]) != 0:
-            print ("description\t")
+for line in sys.stdin:
+    data = line.split("\t")
+    print("total\t")
+    if len(data) != 6:
+        print ("badline\t")
+        continue
+    if len(data[0]) != 0:
+        print ("sighted\t")
+    if len(data[1]) != 0:
+        print ("recorded\t")
+    if len(data[2]) != 0:
+        print ("location\t")
+    if len(data[3]) != 0:
+        print ("shape\t")
+    if len(data[4]) != 0:
+        print ("duration\t")
+    if len(data[5]) != 0:
+        print ("description\t")
