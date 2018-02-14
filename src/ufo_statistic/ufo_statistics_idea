@@ -1,0 +1,19 @@
+cmd to run: hadoop jar /usr/local/Hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.5.jar \
+            -file summarymapper.py \
+            -mapper summarymapper.py \
+            -file wcreducer.rb \
+            -reducer wcreducer.rb \
+            -input /user/hadoop/UFO/ufo.tsv \
+            -output /user/hadoop/UFO/ufosummary
+
+python file #! meaning:
+If you have several versions of Python installed,
+/usr/bin/env will ensure the interpreter used is the first one on your environment's $PATH.
+The alternative would be to hardcode something like #!/usr/bin/python; that's ok, but less flexible.
+In Unix, an executable file that's meant to be interpreted can indicate what interpreter to use by having a #!
+at the start of the first line, followed by the interpreter (and any flags it may need).
+If you're talking about other platforms, of course, this rule does not apply (but that "shebang line" does no harm,
+and will help if you ever copy that script to a platform with a Unix base, such as Linux, Mac, etc).
+
+After writing mapper and reducer with other language script files, we need to call chomd +x <file_name> to make it
+executable
