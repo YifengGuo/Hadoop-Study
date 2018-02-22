@@ -116,10 +116,6 @@ public class UFOLocation2 {
         FileOutputFormat.setOutputPath(conf, new Path(args[1]));
 
         JobClient.runJob(conf);
-
-        // the problem of this program is the output contains some abbreviations that are not the name of states
-        // so we need to add something (an official full-tile -> abbreviation dict) to mapper so that the right
-        // abbreviation can be retrieved
     }
 }
 

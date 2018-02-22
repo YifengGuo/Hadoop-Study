@@ -96,7 +96,7 @@ public class UFOLocation3_Counter {
         // ChainMapper.addMapper() parameter list:
         // job, mapper, inputKey, inputValue, outputKey, outputValue, byValue, mapperConf
         // add first mapper into ChainMapper
-        // UFORecordValidationMapper output is <LongWritable, Text>
+        // UFOCountingRecordValidationMapper output is <LongWritable, Text>
         ChainMapper.addMapper(conf, UFOCountingRecordValidationMapper.class, LongWritable.class, Text.class,
                 LongWritable.class, Text.class, true, mapconf1);
 
@@ -120,9 +120,6 @@ public class UFOLocation3_Counter {
 
         JobClient.runJob(conf);
 
-        // the problem of this program is the output contains some abbreviations that are not the name of states
-        // so we need to add something (an official full-tile -> abbreviation dict) to mapper so that the right
-        // abbreviation can be retrieved
     }
 }
 
