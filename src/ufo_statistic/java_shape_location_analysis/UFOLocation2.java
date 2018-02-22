@@ -81,7 +81,7 @@ public class UFOLocation2 {
     public static void main(String[] args) throws Exception {
         Configuration config = new Configuration();
         // initialize the driver
-        JobConf conf = new JobConf(config, UFOLocation.class);
+        JobConf conf = new JobConf(config, UFOLocation2.class);
         conf.setJobName("UFOLocation");
         DistributedCache.addCacheFile(new File("/user/hadoop/UFO/states.tsv").toURI(), conf);
 
