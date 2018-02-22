@@ -39,7 +39,7 @@ public class UFOLocation2 {
                 Path[] cacheFiles = DistributedCache.getLocalCacheFiles(job);
                 setupStateMap(cacheFiles[0].toString());
             } catch (IOException e) {
-                System.err.println("Error reading states file.");
+                e.printStackTrace();
                 System.exit(1);
             }
         }
@@ -50,7 +50,7 @@ public class UFOLocation2 {
             String line;
             while ((line = br.readLine())!= null) {
                 String[] data = line.split("\t");
-                states.put(data[1], data[0]); // data[0] is fullname and data[1] is abbreviation
+                states.put(data[1], data[0]); // data[0] is abbreviation and data[1] is fullname
             }
             stateNames = states;
         }
@@ -83,7 +83,7 @@ public class UFOLocation2 {
         // initialize the driver
         JobConf conf = new JobConf(config, UFOLocation2.class);
         conf.setJobName("UFOLocation");
-        DistributedCache.addCacheFile(new File("/user/hadoop/UFO/states.tsv").toURI(), conf);
+        DistributedCache.addLocalFiles(conf, "states.tsv");
 
         // final output format
         conf.setOutputKeyClass(Text.class);
