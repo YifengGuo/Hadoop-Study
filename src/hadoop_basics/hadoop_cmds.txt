@@ -18,6 +18,7 @@ $ hadoop namenode -format
 
 # start up hadoop
 $ start-all.sh
+$ start-dfs.sh # hadoop 2.x
 
 # make directory in hdfs
 $ hadoop dfs -mkdir /user
@@ -26,8 +27,12 @@ $ hadoop dfs -mkdir /user/hadoop
 # list files
 $ hadoop dfs -ls /user
 
-# copy from local
+# copy from local, similar to -put but can only be used on local files
 $ hadoop dfs -copyFromLocal <local file path> <dir in HDFS>
+
+# Copy single src, or multiple srcs from local file system to the destination file system.
+# Also reads input from stdin and writes to destination file system.
+$ hadoop dfs -put <file path> <dir in HDFS>
 
 # examine the file in HDFS
 $ hadoop dfs -cat <filename>
