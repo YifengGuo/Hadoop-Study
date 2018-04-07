@@ -1,0 +1,73 @@
+583	Hea poorsus, ei esine suuri auke.	Maitse liiga intensiivne.
+583	Tekstuur ja viilu paksus	KÃ¶Ã¶mnetest tulenev intensiivne maitse.
+583	VÃ¤ga hea tekstuur, lÃµhn, maitse	
+583	Meeldis leiva tekstuur.	Ei ole proovi juures komponente, mis ei meeldiks.
+583	Meeldis pehmus, kuju ja lÃµhn	Ei meeldinud kÃ¶Ã¶mned
+583	Toode on vÃ¤ga hÃ¤sti kerkinud, hea tekstuuriga.	Liiga tugev kÃ¶Ã¶mne maitse
+583		
+583		KÃ¶Ã¶mned
+583	Hele vÃ rvus, 	Saia ja leiva vahepeale, meeldiks konkreetselt kas sai vÃ´i leib.
+583		LÃµhn on kummaline
+583	KÃ¶Ã¶mnete maitse ja pehmus	Natuke liiga tihke tekstuur
+583		Sellel proovil oli natuke jahune maitse.
+583	KÃ¶Ã¶mnete lÃµhn	Leiva lÃµhnaga sai. Veider
+583	Pehmus	LÃµhn oli kergelt ebameeldiv ning maitse minu jaoks liiga hapu ja mÃµru. See oli kÃ¼ll pehme kuid jÃ¤i ebameeldivat hammaste kÃ¼lge kinni.
+583		LÃµhnab nagu lahusti. JÃ¤relmekk soolane ja mÃµru.
+583	Kerge ja Ãµhuline	Liiga hapu
+583	See osa kus polnud kÃ¶Ã¶mneid sees	KÃ¶Ã¶mned ja selle Ã¼ldine tugev maitse
+583	LÃµhn oli talutav	Kohutav maitse, liiga intensiivne ja ebameeldiv, ei saa aru, mis maitsega tÃ¤pselt tegemist on.
+583		
+583	Natuke on seemneid	Pole pÃ¤hkleid
+583	VÃ¤ga hea sÃ¼Ã¼a 	Liiga hele 
+583	Ã•huke viil (hea vÃµileivaks)	Ebameeldiv soodamaitseline kÃµrvalmaitse 
+583	OmapÃ¤rane maitse, kuid igapÃ¤evaselt ei sÃ¶Ã¶ks.	Hapu maitse liiga tugev.
+583	Pehmus/Ãµhulisus	LÃµhn, maitse
+583	Palju kÃ¶Ã¶mneid	Liiga soolane, tugev sooda maitse
+583	Pehmus.	KÃ¶Ã¶mned.
+583	KÃ¶Ã¶mne vms maitse erilisus	JÃ¤relmaitse hapukas
+583		KÃ¶Ã¶mned
+583	KÃ¶Ã¶mnesisaldus	Liiga saialaadne tekstuur. Selle all pean ma silmas Ãµhulisust. Pigem arvaks, et see on sepik, kui leib.
+583	Seemned	Kohati selline jahune
+583	â€œSeemnedâ€ leiva sees, kuju	Liiga mÃµru ja hapu maitse, raske tekstuur, ebameeldiv lÃµhn
+583	Ainsana meeldis leiva tekstuur.	Meenutab haput saia pigem. Liiga kÃ¶Ã¶mnene maitse. VÃ¤ga intensiivne ja veider lÃµhn.
+583	-	LÃµhn
+583	VÃ¤rv, pehme, kerge sÃ¼Ã¼a	KÃ¶Ã¶mnemaitse kÃ¤is kÃµigest Ã¼le
+583		Sees olevad seemned, Hele vÃ¤rvus, lÃµhn
+583		
+583	Pehmus	Liiga kÃ¶Ã¶mnene
+583	Leib oki pehme	Ebameeldiv tekstruur, kÃ¶Ã¶mne maitse ei olnud hea ja kerkis liialt esile. Proovi oli raske nÃ¤rida ja oli suus pudine ja nÃ¤tske
+583	KÃ¶Ã¶mned	Tekstuur ja lÃµhn
+583	Pehmus	LÃµhn, maitse, kÃ¶Ã¶mnete sisaldus, saiasus, rukkileiva/leiva maitset polnud tunda, ei meenuta leiba ega saia.
+583		Liiga hele vÃ¤rv ja liiga intensiivne kÃ¶Ã¶mne maitse.
+583	Saialaadne toode, mis tundub samal ajal tervislik	Maitse- hapu ja mÃµru sama aeg
+583		VÃµibolla natuke liiga saiane
+583		Liiga tugev kÃ¶Ã¶mne maitse mÃµru jÃ¤relmaitsega, veidralt nÃ¤tske
+583	KÃ¶Ã¶mned	Imelik jÃ¤relmaitse, saiane.
+583		LÃµhn veidi ebameeldiv, kuiv ja pudenev, vÃ¤rv veidi ebameeldiv
+583	KÃ¶Ã¶mned	Ei saanudki aru, kas tegu oli leiva vÃµi pigem soolast sorti saiaga
+583	KÃ¶Ã¶mnete maitse andis mÃµnusat nÃ¼anssi	Tervikuna suhteliselt ebameeldiv - mingi imelik maitse, mida ei oska mÃ¤Ã¤ratleda. Ehk pÃ¤rmine vms?
+583		liiga soolane, liiga palju kÃ¶Ã¶mneid, vÃ¤ga ebameeldiv kÃµrvalmaitse (nagu metalline ja plastiku maitse)
+583	See on teistmoodi ning huvitav, kutsub tagasi maitsma	KÃ¶Ã¶mned, aga samas need teevad selle leiva eriliseks, seega need ei ole otseselt halvad seal sees
+583	seemned, pehme	lÃµhn meenutab natuke kopitust, maitse liiga nÃµrk, magusust polnud tunda
+583	suurus	kÃ¶Ã¶mnete vms maitse oli liiga intensiivne
+583	LÃµhn	Kibe maik
+583	Saia moodi kerge pehme tekstuur.	VÃ¤ga ebameeldiv hapu maitse. Parmesani juustulik sokine maitse, ei sobi. KÃ¶Ã¶mned ei sobi siia leiba Ã¼ldse.
+583	Pehme, pÅnevam maitse	Ãœsna intensiivne kÃ¶Ã¶mne maitse, vÃ¤rv hallikam kui ootaks voib olla 
+583	-	NÃ¤rides muutus tainaseks, liiga soolane, ebameeldiv lÃµhn, suhteliselt kÃµlbmatu. Halb.
+583	Pehmus	KÃ¶Ã¶mned
+583		Kohutav lÃµhn ja maitse, liiga tehislik
+583	kuju	mitte miski, linaseemned teevad antud proovi veel ebameeldivamaks
+583	Seemned, tekstuur enamvÃ¤hem	VÃ¤ga imelik maitse ja veel hullem lÃµhn
+583		LÃµhn, tekstuur
+583		Hele. Liiga palju kÃ¶Ã¶mneid, mis olid vÃ¤ga ebameeldivad
+583	Seemned	"Liiga tugev ja imelik maitse ning lÃµhn 
+Muutus suus liiga pudruks 
+
+"
+583		Hele vÃ¤rv, maitse
+583		hele vÃ¤rvus
+583	LÃµhn	Maitse, tekstuur ja kuju (eelistan kandilisi)
+583		Natuke liiga tugev kÃµrvalmaitse on juures.
+583	MÃµnusalt pehme tekstuur.	VÃ¤ga hapu maitse ning samuti liigne mÃµrkjas maitse.
+583	Seemned nÃ¤evad visuaalselt head vÃ¤lja selle tÃ¼ki peal.	Maitse ja lÃµhn ei ole meeldivad. Kahjuks seemnete maitset ei ole Ã¼ldse tunda.
+583	Tekstuur ja vÃµÃµrad maitsed. Soodane	KÃ¶Ã¶mnete esile kerkimine. Liiga pehme

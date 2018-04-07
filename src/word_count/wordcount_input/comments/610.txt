@@ -1,0 +1,105 @@
+610	Pehme tekstuur, magus, ei olnud liigselt kuiv	
+610	Kergelt hapukas maitse	KÃµik ok
+610	Hea maitse, traditsiooniline	Veidi hapu
+610	Pehmus ja traditsiooniline peenleiva maitse	Polnud midagi mis ei oleks meeldinud
+610	Tervik oli maitsev, hea ja lihtne leib. VÃµiks Ã¶elda isegi tavaline.	Tekstuur oli mittemidagiÃ¼tlev
+610	Meeldis kuju ja vÃ¤rv. JÃ¤relmaitse ei liiga tugev	Natuke vÃ¤he maitset
+610	Hea mÃµnus leib, igapÃ¤evane millele saab kindel olla	
+610	TÃ¤idab kÃµhtu, vÃµiga vÃ¤ga hea	Kuiv veidi
+610	VÃ¤rskus	Ei olnud lisasid, nt pÃ¤hkleid sees ja seepÃ¤rast sobibki vÃµilevaks kuna siis saab ise midagi peale panna.
+610		Liiga hapu. Leib ei meeldinud.
+610		
+610		VÃ¤ga tavaline
+610		
+610	peenleiva tekstuur ja maitse	terad
+610	Maitsed hÃ¤sti paigas, tunda nii magusat kui haput maitset.	Suur suhkrusisaldus tootes.
+610		
+610	NÃ¤tskus, Ãµige niiskustase	Veidi liiga hapu
+610	Leib oli pehme ja kerge.	Halb kuju, ei sobiks vÃµileiva materjaliks. Liiga tehis maitsega, ise tehtud leiva maitse puudus.
+610	Pehme tekstuur ja Ã¼ldine maitse.	Hapukas kÃµrvalmaitse.
+610		
+610	LÃµhn, tekstuur	Maitse natuke liiga kaldu hapu poole. Natuke liiga klassika minu maitse jaoks. 
+610	KÃµige rohkem meeldis hea tekstuur, mÃµnusalt pehme, hea nÃ¤rida.	Liiga hapu maitsega minu jaoks.
+610	Meeldis vÃ¤ga proovi tekstuur.	Hapukus veidi liiga intensiivne.
+610		Minu jaoks liiga hapu, liiga traditsiooniline
+610	Traditsiooniline	Kleepuv, hapu, maitsetu
+610	Maitse ja lÃµhn olid head ja tasakaalus	Kuju
+610		
+610		
+610	Polnud liiga intensiivne, hea tekstuur	Kuju
+610	Pehme ja hea koorik	VÃ¤rv vÃµiks tumedam olla
+610	Rukkine, tervislik	Pisut nÃ¤tske
+610	Naturaalne, pehme tekstuur	
+610	VÃ¤ga hea pehmusega, kujuga ning hea maitse, lÃµhn	
+610	Kuju	Liiga raske tekstuur, raske nÃ¤ridq, liiga intensiivne hapu maitse
+610		"liiga saia moodi
+magusus veidi kÃµrge"
+610		Pool elu olen pidanud seda leiba sÃ¶Ã¶ma, rohkem ei tahaks. VÃµrreldes teiste leibadega siis liiga tihke, vÃµiks olla Ãµhulisem.
+610	Tavaline	Veidi Ãµline maitse
+610	Hea lÃµhn	Liiga tugeva tekstuuriga, suhteliselt maitsevaene
+610	Mingi seemne moodi asjad 	Hapusus
+610	Pehmus	Tektstuur
+610		
+610	Ei olnud nÃ¤tske, ilusa struktuuriga, parajalt tume, suhu jÃ¤Ã¤b hea maitse. Seda leiba ostaks. Sees huvitavad, veidi suuremad terad.	
+610	Kindla peale minek, leib on leib on leib	Liiga tavaline
+610		
+610	rukkileib, ei ole liiga magus	"kummaline lÃµhn, mis ei seostunud halva maitsega,
+tekstuur nÃ¤tske kohev (guarkummi ja gluteeni lisand ilmselt).
+ei soovi neid leiva sisse.
+"
+610	Kuigi mÃ¤rkisin "traditsiooniline" ja "rukis", eelistan ise suurema rukkisisaldusega leiba. See on traditsiooniline peenleib.	Ikkagi peenleib, ei ole vist 100% rukis?
+610	Hea tekstuur vÃµileiva jaoks	Natuke liiga hapukas mekk
+610	N/a midagi erilist polnud	Veidi liiga hapu
+610	seemned sees, magus ja hapu maitse on tasakaalus, pehmus	
+610	Hea traditsiooniline leib	KÃµik oli paigas
+610		Kuidagi vÃµÃµras maitse
+610		
+610		Liiga tavaline
+610		
+610	Kuju	JÃ ttis imeliku jÃ relmaitse
+610	Pehme, Ã¼kski maitse ei kÃ¤i Ã¼le,  sobib teiste toitudega kokku.	Igava, tavalise maitsega. Kuna muud erilist maitset juures polnud, siis tunneb ainult kerget haput.
+610	HarjumuspÃ¤rane maitse.	
+610		
+610	Leiva Ã¤Ã¤re osa	Struktuur, hapukas maitse
+610	Maitse ning tektuur on vÃ¤ga meeldivad 	LÃµhn vÃµiks veidi parem olla
+610	Klassikaline leib	JÃ¤relmaitse
+610	Ã„Ã¤red on eriti hea maitsega, parajalt pehme ja ei ole liiga tugeva maise ega lÃµhnaga. 	SeemnetÃ¼kke pole nÃ¤ha aga hammaste vahel pigem ebameeldivad.
+610	Magus maitse sÃ¶Ã¶mise kÃ¤igus	Natuke hapukas ja kuiv
+610		Liiga tugevalt kÃ¼psetatud Ã¤Ã¤red
+610	 Pehme tekstuur, koorik eristus arusaadavalt leiva sisust.	Kuju ja suurus olid ebameeldivad, leivaviil liiga vÃ¤ike. Magus maitse oli veidi liialt domineeriv.
+610	Pehmus	Veidi hapu maitse
+610		
+610	Traditsioonilisus	JÃ¤relmaitse
+610	Kuju, maheda maitsega 	Sisu on veidi nÃ¤tske
+610		Plastiku kÃµrvallÃµhn
+610	Erinevad maitsed. 	Veidi hapu. Tekstuur ei meeldi.
+610	Tekstuur, Ã¼ldine maitse tasakaal	-
+610	Ãœldiselt on sÃ¶Ã¶dav, keskpÃ¤rane.	NÃ¤tske!
+610	Pehmus.	
+610	Tekstuur on hea ja vÃ¤rske	Maitse liiga klassikaline ja igav
+610		Mingisugune mÃµrkjas maitse. Magus ja hapu pole Ã¼ldse tuntavad
+610	Seemned, mida on mÃµÃµdukalt	
+610	Hapukas maitse	-
+610		Natuke liiga tihke ja niiske ja mitte seejuures niivÃµrd pehme
+610	LÃµhn	Koorik
+610	Meeldis leiva maitse ning tekstuur.	
+610	Taaskord tavaline leib, ei mingeid erilisi emotsioone.	Natuke liiga tihke tekstuur.
+610	Hea tavaline leib. 	
+610		Liiga magus
+610	meeldivalt tugev lÃµhn, maitse hapukus ja magusus tÃ¤pselt paras, teralisust polnud tunda	natuke raske nÃ¤rida
+610	"VÃ¤rskus, hapu-magus tasakaal
+Tekstuur vÃ¤ga hea"	
+610		
+610	Sobiks hÃ¤sti teiste asjadega, maitse on olemas, aga mitte liiga intensiivne.	
+610		
+610	Pehme, maitseb kÃ¼lmalt hÃ¤sti	VÃ¤he seemneid jms
+610	Pehme	Hapukus/mÅrusus veidi tugev
+610		
+610	Ãœldine maitse	
+610		
+610	Traditsiooniline hea maitsega leib, mis sobib hÃ¤sti supi kÃµrvale.	Veidi raske nÃ¤rida.
+610	maitse oli okei, muu vÃ¤ga mitte	mitte miski, ainult maitse oli enam-vÃ¤hem okei
+610		Veidi loiga hapu ja magus ehk, muidu hea.
+610	Selle pruun vÃ¤rv	Liiga hapu ja raske nÃ¤rida, nÃ¤tske
+610		
+610		

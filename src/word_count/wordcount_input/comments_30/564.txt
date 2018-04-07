@@ -1,0 +1,32 @@
+564		Maitsetu. Ei ole sellist tÃ¼Ã¼pi leiva tarbija.
+564	Meeldis toote magus-hapukas maitse	Liiga hele vÃ¤rv
+564	Mahe, veidi magus	
+564	Pehme	VÃ¤he
+564	Traditsioonilisus	JÃ¤i suulakke kinni
+564	Tekstuur. 	Mingi imelik kÃµrvalmaitse, millele ei iska nime anda. 
+564	Tekstuur	hapukas maitse
+564	Struktuur, kui Ã¼ldse	KÃµrvallÃµhn, mittespets. harj leivale
+564	Ãœhtlase struktuuriga, pehme, teradeta	Liiga hele vÃ¤rvus rukkileiva kohta (nagu peenleib). Ei kutsu sÃ¶Ã¶ma. Pole ei Ã¼ks ega teine, ei ostaks. Ei ole rukkileiva lÃµhn. NÃ¤tske.
+564	Hea kuju, poorsus.	Hapu lÃµhn. Ja ka plastiku kÃµrvallÃµhn.
+564	Klassika	VÃµibolla natule kulunud maitse.
+564	Tekstuur, vÃµrvus	maitse
+564		
+564	Kindla peale minek, nii tavaline leib, et kÃ¼ll sobib kÃµigile. Hea pehme.	Tavaline, liiga tavaline.
+564	"ilus, mitte vÃ¤ga magus
+ei ole ilmselt linnasesiirupit, vÃ¤rvus parem kui tumedatel leibadel"	"pigem peenleib, liiga kohev (gluteen ja guarkumm),
+liiga vÃ¤he tÃ¤istera,"
+564		
+564	Sobib iseseisvalt kasutamiseks.	Liiga hapu vÃµileiva jne tegemiseks, varjutab muud maitsed Ã¤ra.
+564		
+564		
+564	Pehmus	Leiva jaoks liiga hele, rukujahu ei tunne
+564		
+564		
+564	poorsus, vÃ¤rskus	lisatud kliid? (kÃµvemad tÃ¼kkid)
+564	Tavaline 	Ei oska Ã¶elda 
+564		
+564		
+564		Hele, vÃ¤he maitset.Veidi nÃ¤tske.
+564		
+564		
+564		VÃ¤ga traditsiooniline leib, Ã¼llatusmoment puudus
