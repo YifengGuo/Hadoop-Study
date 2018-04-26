@@ -102,3 +102,17 @@ Architecture of HDFS: Master-slave model
     We knew that slaves cannot communicate with each other, how will the write process happen successfully?
         Slaves cannot communicate with each other by their own. The communication between slaves during write process
         are driven by NameNode
+
+Why default replication factor of Hadoop is 3?
+	Replication factor is the number of times Hadoop framework replicates each and every Data Block
+	Block replication is designed to provide fault tolerance
+
+	The reasons why 3:
+		Fault Tolerance:
+			1. If one copy is not accessible and corrupted then the data can be read from other copy.
+			2. You will have ample time to send an alert to namenode and recover the duplication of the failed node into a new node.
+			3. In meantime if the second node also failed unplanned, you will still have one active with your critical data to process.
+
+		Rack Awareness:
+			Replication factor 3 works properly in all situations without over replicating data and 
+			replication less than 3 could be challenging at the time data recovery.
