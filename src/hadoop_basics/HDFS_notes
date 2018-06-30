@@ -110,9 +110,26 @@ Why default replication factor of Hadoop is 3?
 	The reasons why 3:
 		Fault Tolerance:
 			1. If one copy is not accessible and corrupted then the data can be read from other copy.
-			2. You will have ample time to send an alert to namenode and recover the duplication of the failed node into a new node.
-			3. In meantime if the second node also failed unplanned, you will still have one active with your critical data to process.
+			2. You will have ample time to send an alert to namenode and recover the duplication of the 
+                           failed node into a new node.
+			3. In meantime if the second node also failed unplanned, you will still have one active 
+                           with your critical data to process.
 
 		Rack Awareness:
 			Replication factor 3 works properly in all situations without over replicating data and 
 			replication less than 3 could be challenging at the time data recovery.
+
+MapReduce:
+    1. There could be multiple Mappers in one MapReduce Job
+        * Mappers are in sequential order (ChainMapper)
+        * Mappers are in parallel order
+    2. There can be no Reducer or at most one Reducer in one MapReduce Job
+        * If only to split data, one Mapper or multiple Mappers can work along (more than one way to split data)
+        * If need to sum up data, only one way to sum up (one Reducer)
+    3. In MapReduce, when dealing with matrices multiplication, we usually multiply each entry from the same column
+       of matrixA with each entry from the same column of matrixB and wait for the Reducer do the sum job to make 
+       the whole process work as row x column as usual way to do the matrix multiplication. The basic reason is the 
+       when dealing multiplication in one MapReduce Job, the key must be consistent (two kinds of data must have the 
+       same key). So it is easier to multiply entries from the same column of matrixA with enties from the same column
+       of matrixB
+       This trick is implemented in PageRank and Movie Recommendation System
